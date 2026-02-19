@@ -1,10 +1,9 @@
 # Hi there, I'm Arsene 👋
 
 A backend developer who loves wrangling data and building scalable systems.
-
-- 🚀 Currently solving problems at [Eluminate Labs](https://www.eluminatelabs.com/) and co-founding [HOVA AI](https://www.hova.rw/).
+ 
 - 💡 I enjoy mixing AI with cloud infrastructure.
-- 🎮 Side quests: chrome extensions, ML prototypes, and random hackathons.
+- 🎮 Side quests: chrome extensions, ML prototypes, and random tools.
 - 📧 Reach me: [amuhire@alumni.cmu.edu](mailto:amuhire@alumni.cmu.edu)
 
 ---
